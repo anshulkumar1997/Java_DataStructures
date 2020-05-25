@@ -1,0 +1,74 @@
+Reversing a List
+
+Jane is a programmer and she used to participate in various coding contests.  Since she is very much interested in data structure, she planned to participate in a contest for data structures conducted by 'Secrets of Champions'.  In that contest, she is asked to write a program in Java to perform following operations: 
+
+Define a Class with following format:
+
+class Node
+
+{
+
+int data;
+
+Node  next;
+
+}
+
+Include functions
+
+append --- to add data at the end of the linked list.
+
+Reverse --- to reverse the linked list.
+
+display --- to display all the data in the linked list.
+
+How can you help her to write this code?
+
+Note: Implement the main() inside the class 'List'
+
+
+
+Input and Output Format:
+
+Refer sample input and output for formatting specifications.
+
+
+
+Sample Input and Output:
+
+Enter the value:
+
+9
+
+Do you want to add another node? Type Yes/No
+
+yes
+
+Enter the value:
+
+10
+
+Do you want to add another node? Type Yes/No
+
+Yes
+
+Enter the value:
+
+26
+
+Do you want to add another node? Type Yes/No
+
+Yes
+
+Enter the value:
+
+8
+
+Do you want to add another node? Type Yes/No
+
+no
+
+The elements in the linked list are: 9 10 26 8
+
+The elements in the reversed linked list are : 8 26 10 9
+
